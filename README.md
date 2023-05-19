@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillanuadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevillanuadejuan" /> </p>
 
+- 👨‍💻 Currently working with **OpenAI, Bootstrap**
+
 - 👨‍💻 All of my projects are available at [github.com/jaimevillanuadejuan](github.com/jaimevillanuadejuan)
 
 - 💬 Ask me anything about **React.js, Node.js, football, music**
