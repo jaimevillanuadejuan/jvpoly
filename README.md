@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillanuadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevillanuadejuan" /> </p>
 
-- 👨‍💻 Currently working with **OpenAI, Bootstrap**
+- 👨‍💻 Currently working with **EF Core, JWT, and Microsoft SQL Server**
 
 - 👨‍💻 All of my projects are available at [github.com/jaimevillanuadejuan](github.com/jaimevillanuadejuan)
 
-- 💬 Ask me anything about **React.js, Node.js, football, music**
+- 💬 Ask me anything about **C#, .NET, Typescript, JavaScript, React.js, Node.js, football, music**
 
 - 📧 You can contact me at **jaimevillanua10@gmail.com**
 
